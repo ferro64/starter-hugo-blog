@@ -4,7 +4,8 @@ widget_id: ORTO BIO
 headless: true
 weight: 10
 title: 🍅 Orto Bio
-subtitle: Se dell’orto vuoi verdura non smetter mai la cura.
+subtitle: "L’orticoltura è semplice: la si apprende in cento lezioni – una
+  lezione all’anno -. <br>(Alain Meilland)"
 design:
   background:
     color: "#090a0b"
