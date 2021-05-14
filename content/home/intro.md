@@ -9,7 +9,5 @@ active: false
 design:
   background:
     color: "#090a0b"
-    text_color_light: true
-    image: ""
-    image_darken: ""
+    text_color_light: true    
 ---
