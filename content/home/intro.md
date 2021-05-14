@@ -1,13 +1,17 @@
 ---
+# Use the Intro widget of the Blog template
 widget: starter.blog.intro
-widget_id: "ORTO BIO "
+
+# This file represents a page section.
 headless: true
+
+# Order that this section will appear in.
 weight: 10
-title: 🍅 Orto Bio
-subtitle: ""
-active: false
+
+title: ✏️ Blog Template
+subtitle: 'For [Wowchemy Website Builder](https://wowchemy.com/)'
+
 design:
   background:
-    color: "#090a0b"
-    text_color_light: true    
----
+    color: '#090a0b'
+    text_color_light: true
