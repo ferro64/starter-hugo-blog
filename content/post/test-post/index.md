@@ -4,7 +4,7 @@ date: 2021-05-14T14:19:20.942Z
 draft: false
 featured: false
 image:
-  filename: featured.jpg.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
@@ -16,7 +16,7 @@ Suspendisse luctus scelerisque erat vitae vestibulum. Aenean consequat, magna ve
 
 Nam molestie consectetur sem quis feugiat. Donec lorem diam, cursus a facilisis id, facilisis ut turpis. Suspendisse lobortis metus in lacus facilisis vestibulum. Suspendisse dictum iaculis nisl, sed rhoncus ipsum vulputate eu. Pellentesque in nibh pellentesque, molestie est ac, ullamcorper ipsum. Cras euismod dui sit amet elit tempor, eget fermentum massa pha
 
-![](featured.jpg)
+![]()
 
 retra. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
