@@ -1,9 +1,9 @@
 ---
 widget: starter.blog.intro
-widget_id: ORTO BIO 🍅
+widget_id: "ORTO BIO "
 headless: true
 weight: 10
-title: ✏️ Blog Template
+title: 🍅 Blog Template
 subtitle: For [Wowchemy Website Builder](https://wowchemy.com/)
 design:
   background:
