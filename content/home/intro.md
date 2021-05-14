@@ -8,6 +8,5 @@ subtitle: null
 design:
   background:
     color: "#090a0b"
-    text_color_light: true
-    image: ""
+    text_color_light: true    
 ---
