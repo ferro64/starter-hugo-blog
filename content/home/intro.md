@@ -5,7 +5,7 @@ headless: true
 weight: 10
 title: 🍅 Orto Bio
 subtitle: "L’orticoltura è semplice: la si apprende in cento lezioni – una
-  lezione all’anno. (Alain Meilland)"
+  lezione all’anno. <br>(Alain Meilland)"
 design:
   background:
     color: "#090a0b"
