@@ -9,5 +9,5 @@ design:
   background:
     color: "#090a0b"
     text_color_light: true
-    image: /static/media/logo.jpg
+    image: ""
 ---
