@@ -7,6 +7,9 @@ image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
+
+authors:
+- admin
 ---
 <!--StartFragment-->
 
