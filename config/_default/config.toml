@@ -67,7 +67,7 @@ disableAliases = true  # Disable aliases when `redirects` is added to the `outpu
 # Taxonomies.
 [taxonomies]
   tag = "tags"
-  category = "categories"
+  category = "categorie"
   author = "authors"
 
 # Related content.

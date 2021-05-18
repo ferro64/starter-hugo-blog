@@ -11,7 +11,7 @@ image:
 authors:
 - admin
 tags: []
-categories: 
+categorie: 
 - Verdura
 projects: []
 ---
