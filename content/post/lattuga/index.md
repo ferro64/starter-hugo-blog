@@ -10,10 +10,13 @@ image:
 
 authors:
 - admin
+tags: []
+categories: []
+projects: []
 ---
 <!--StartFragment-->
 
-Deve il nome al fatto che, spezzando le foglie, ne esce un liquido lattiginoso. *Lactuca sativa* comprende 4 sottospecie: ***capitata*** con le foglie lisce e raccolte, ***crispa*** con le foglie ricce, ***acephala*** con fogle che ricrescono man mano che si tagliano e ***romana*** con le foglie allungate.
+Deve il nome al fatto che, spezzando le foglie, ne esce un liquido lattiginoso. *Lactuca sativa* comprende 4 sottospecie: ***capitata*** con le foglie lisce e raccolte, ***crispa*** con le foglie ricce, ***acephala*** con foglie che ricrescono man mano che si tagliano e ***romana*** con le foglie allungate.
 
 #### IL TERRENO, IL CLIMA E L'ESPOSIZIONE
 
