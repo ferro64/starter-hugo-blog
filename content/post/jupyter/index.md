@@ -9,6 +9,8 @@ categories: []
 projects: []
 date: "2019-02-05T00:00:00Z"
 lastMod: "2019-09-05T00:00:00Z"
+# Is this an unpublished draft?
+draft: true
 image:
   caption: ""
   focal_point: ""

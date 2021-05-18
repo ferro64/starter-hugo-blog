@@ -14,6 +14,6 @@
   weight = 20
   
 [[main]]
-  name = "Categories"
+  name = "Categorie"
   url = "/categories/"
   weight = 30  
