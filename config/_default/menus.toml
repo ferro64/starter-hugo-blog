@@ -9,11 +9,16 @@
   weight = 10
 
 [[main]]
-  name = "Categorie"
-  url = "/categorie/"
+  name = "Categories"
+  url = "categories/"
   weight = 20
+
+[[main]]
+  name = "Categorie"
+  url = "categorie/"
+  weight = 30 
 
  [[main]]
   name = "Contatto"
   url = "about/"
-  weight = 30   
+  weight = 40  

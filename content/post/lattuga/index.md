@@ -11,7 +11,7 @@ image:
 authors:
 - admin
 tags: []
-categorie: [Verdura]
+categories: [Lattuga]
 projects: []
 ---
 
